@@ -1,0 +1,10 @@
+C:\Users\John N\Desktop\C#plat\CSarpExercises\FunWithLists\obj\Debug\netcoreapp2.1\FunWithLists.csproj.CoreCompileInputs.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\FunWithLists\obj\Debug\netcoreapp2.1\FunWithLists.AssemblyInfoInputs.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\FunWithLists\obj\Debug\netcoreapp2.1\FunWithLists.AssemblyInfo.cs
+C:\Users\John N\Desktop\C#plat\CSarpExercises\FunWithLists\bin\Debug\netcoreapp2.1\FunWithLists.deps.json
+C:\Users\John N\Desktop\C#plat\CSarpExercises\FunWithLists\bin\Debug\netcoreapp2.1\FunWithLists.runtimeconfig.json
+C:\Users\John N\Desktop\C#plat\CSarpExercises\FunWithLists\bin\Debug\netcoreapp2.1\FunWithLists.runtimeconfig.dev.json
+C:\Users\John N\Desktop\C#plat\CSarpExercises\FunWithLists\bin\Debug\netcoreapp2.1\FunWithLists.dll
+C:\Users\John N\Desktop\C#plat\CSarpExercises\FunWithLists\bin\Debug\netcoreapp2.1\FunWithLists.pdb
+C:\Users\John N\Desktop\C#plat\CSarpExercises\FunWithLists\obj\Debug\netcoreapp2.1\FunWithLists.dll
+C:\Users\John N\Desktop\C#plat\CSarpExercises\FunWithLists\obj\Debug\netcoreapp2.1\FunWithLists.pdb

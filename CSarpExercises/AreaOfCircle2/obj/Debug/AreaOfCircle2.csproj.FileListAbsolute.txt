@@ -1,0 +1,9 @@
+C:\Users\lion4\OneDrive\Desktop\C#plat\CSarpExercises\AreaOfCircle2\bin\Debug\AreaOfCircle2.exe.config
+C:\Users\lion4\OneDrive\Desktop\C#plat\CSarpExercises\AreaOfCircle2\bin\Debug\AreaOfCircle2.exe
+C:\Users\lion4\OneDrive\Desktop\C#plat\CSarpExercises\AreaOfCircle2\bin\Debug\AreaOfCircle2.pdb
+C:\Users\lion4\OneDrive\Desktop\C#plat\CSarpExercises\AreaOfCircle2\obj\Debug\AreaOfCircle2.csprojAssemblyReference.cache
+C:\Users\lion4\OneDrive\Desktop\C#plat\CSarpExercises\AreaOfCircle2\obj\Debug\AreaOfCircle2.csproj.CoreCompileInputs.cache
+C:\Users\lion4\OneDrive\Desktop\C#plat\CSarpExercises\AreaOfCircle2\obj\Debug\AreaOfCircle2.exe
+C:\Users\lion4\OneDrive\Desktop\C#plat\CSarpExercises\AreaOfCircle2\obj\Debug\AreaOfCircle2.pdb
+C:\Users\John N\Desktop\C#plat\CSarpExercises\AreaOfCircle2\obj\Debug\AreaOfCircle2.exe
+C:\Users\John N\Desktop\C#plat\CSarpExercises\AreaOfCircle2\obj\Debug\AreaOfCircle2.pdb

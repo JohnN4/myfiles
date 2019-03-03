@@ -1,0 +1,11 @@
+C:\Users\John N\Desktop\C#plat\CSarpExercises\MathOp\bin\Debug\netcoreapp2.1\MathOp.deps.json
+C:\Users\John N\Desktop\C#plat\CSarpExercises\MathOp\bin\Debug\netcoreapp2.1\MathOp.runtimeconfig.json
+C:\Users\John N\Desktop\C#plat\CSarpExercises\MathOp\bin\Debug\netcoreapp2.1\MathOp.runtimeconfig.dev.json
+C:\Users\John N\Desktop\C#plat\CSarpExercises\MathOp\bin\Debug\netcoreapp2.1\MathOp.dll
+C:\Users\John N\Desktop\C#plat\CSarpExercises\MathOp\bin\Debug\netcoreapp2.1\MathOp.pdb
+C:\Users\John N\Desktop\C#plat\CSarpExercises\MathOp\obj\Debug\netcoreapp2.1\MathOp.csprojAssemblyReference.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\MathOp\obj\Debug\netcoreapp2.1\MathOp.csproj.CoreCompileInputs.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\MathOp\obj\Debug\netcoreapp2.1\MathOp.AssemblyInfoInputs.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\MathOp\obj\Debug\netcoreapp2.1\MathOp.AssemblyInfo.cs
+C:\Users\John N\Desktop\C#plat\CSarpExercises\MathOp\obj\Debug\netcoreapp2.1\MathOp.dll
+C:\Users\John N\Desktop\C#plat\CSarpExercises\MathOp\obj\Debug\netcoreapp2.1\MathOp.pdb

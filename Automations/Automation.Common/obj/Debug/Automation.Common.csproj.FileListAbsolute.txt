@@ -1,0 +1,6 @@
+C:\Users\John N\Desktop\C#plat\Automations\Automation.Common\bin\Debug\Automation.Common.dll
+C:\Users\John N\Desktop\C#plat\Automations\Automation.Common\bin\Debug\Automation.Common.pdb
+C:\Users\John N\Desktop\C#plat\Automations\Automation.Common\obj\Debug\Automation.Common.csprojAssemblyReference.cache
+C:\Users\John N\Desktop\C#plat\Automations\Automation.Common\obj\Debug\Automation.Common.csproj.CoreCompileInputs.cache
+C:\Users\John N\Desktop\C#plat\Automations\Automation.Common\obj\Debug\Automation.Common.dll
+C:\Users\John N\Desktop\C#plat\Automations\Automation.Common\obj\Debug\Automation.Common.pdb

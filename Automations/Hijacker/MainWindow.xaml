@@ -1,0 +1,23 @@
+﻿<Window x:Class="Hijacker.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Hijacker"
+        mc:Ignorable="d"
+        Title="Welcome to the Hijacker!" SizeToContent="WidthAndHeight"
+				WindowStartupLocation="Manual"
+				Left="0"
+				Top="0"
+				Foreground="White">
+	<Grid>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="Auto"/>
+			<ColumnDefinition Width="Auto"/>
+		</Grid.ColumnDefinitions>
+		<Border Background="Navy">
+			<TextBlock FontSize="16" FontWeight="Bold" VerticalAlignment="Center" Margin="5" Text="Drag the icon on top of the window you want to hijack:"/>
+		</Border>
+		<local:WindowFinder Grid.Column="1" Margin="5"/>
+	</Grid>
+</Window>

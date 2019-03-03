@@ -1,0 +1,7 @@
+C:\Users\John N\Desktop\C#plat\CSarpExercises\Fractions\bin\Debug\Fractions.exe.config
+C:\Users\John N\Desktop\C#plat\CSarpExercises\Fractions\bin\Debug\Fractions.exe
+C:\Users\John N\Desktop\C#plat\CSarpExercises\Fractions\bin\Debug\Fractions.pdb
+C:\Users\John N\Desktop\C#plat\CSarpExercises\Fractions\obj\Debug\Fractions.csprojAssemblyReference.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\Fractions\obj\Debug\Fractions.csproj.CoreCompileInputs.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\Fractions\obj\Debug\Fractions.exe
+C:\Users\John N\Desktop\C#plat\CSarpExercises\Fractions\obj\Debug\Fractions.pdb

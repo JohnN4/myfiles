@@ -1,0 +1,6 @@
+C:\Users\John N\Desktop\C#plat\CSarpExercises\TextAnalzers.Lib\bin\Debug\TextAnalzers.Lib.dll
+C:\Users\John N\Desktop\C#plat\CSarpExercises\TextAnalzers.Lib\bin\Debug\TextAnalzers.Lib.pdb
+C:\Users\John N\Desktop\C#plat\CSarpExercises\TextAnalzers.Lib\obj\Debug\TextAnalzers.Lib.csprojAssemblyReference.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\TextAnalzers.Lib\obj\Debug\TextAnalzers.Lib.csproj.CoreCompileInputs.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\TextAnalzers.Lib\obj\Debug\TextAnalzers.Lib.dll
+C:\Users\John N\Desktop\C#plat\CSarpExercises\TextAnalzers.Lib\obj\Debug\TextAnalzers.Lib.pdb

@@ -1,0 +1,7 @@
+C:\Users\John N\Desktop\C#plat\CSarpExercises\DirectoryListing\bin\Debug\DirectoryListing.exe.config
+C:\Users\John N\Desktop\C#plat\CSarpExercises\DirectoryListing\bin\Debug\DirectoryListing.exe
+C:\Users\John N\Desktop\C#plat\CSarpExercises\DirectoryListing\bin\Debug\DirectoryListing.pdb
+C:\Users\John N\Desktop\C#plat\CSarpExercises\DirectoryListing\obj\Debug\DirectoryListing.csprojAssemblyReference.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\DirectoryListing\obj\Debug\DirectoryListing.csproj.CoreCompileInputs.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\DirectoryListing\obj\Debug\DirectoryListing.exe
+C:\Users\John N\Desktop\C#plat\CSarpExercises\DirectoryListing\obj\Debug\DirectoryListing.pdb

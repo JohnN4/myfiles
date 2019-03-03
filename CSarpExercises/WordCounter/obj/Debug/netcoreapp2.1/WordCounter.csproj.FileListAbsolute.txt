@@ -1,0 +1,15 @@
+C:\Users\John N\Desktop\C#plat\CSarpExercises\WordCounter\bin\Debug\netcoreapp2.1\mobydick.txt
+C:\Users\John N\Desktop\C#plat\CSarpExercises\WordCounter\bin\Debug\netcoreapp2.1\WordCounter.deps.json
+C:\Users\John N\Desktop\C#plat\CSarpExercises\WordCounter\bin\Debug\netcoreapp2.1\WordCounter.runtimeconfig.json
+C:\Users\John N\Desktop\C#plat\CSarpExercises\WordCounter\bin\Debug\netcoreapp2.1\WordCounter.runtimeconfig.dev.json
+C:\Users\John N\Desktop\C#plat\CSarpExercises\WordCounter\bin\Debug\netcoreapp2.1\WordCounter.dll
+C:\Users\John N\Desktop\C#plat\CSarpExercises\WordCounter\bin\Debug\netcoreapp2.1\WordCounter.pdb
+C:\Users\John N\Desktop\C#plat\CSarpExercises\WordCounter\obj\Debug\netcoreapp2.1\WordCounter.csprojAssemblyReference.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\WordCounter\obj\Debug\netcoreapp2.1\WordCounter.csproj.CoreCompileInputs.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\WordCounter\obj\Debug\netcoreapp2.1\WordCounter.AssemblyInfoInputs.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\WordCounter\obj\Debug\netcoreapp2.1\WordCounter.AssemblyInfo.cs
+C:\Users\John N\Desktop\C#plat\CSarpExercises\WordCounter\obj\Debug\netcoreapp2.1\WordCounter.dll
+C:\Users\John N\Desktop\C#plat\CSarpExercises\WordCounter\obj\Debug\netcoreapp2.1\WordCounter.pdb
+C:\Users\John N\Desktop\C#plat\CSarpExercises\WordCounter\bin\Debug\netcoreapp2.1\TextAnalzers.Lib.dll
+C:\Users\John N\Desktop\C#plat\CSarpExercises\WordCounter\bin\Debug\netcoreapp2.1\TextAnalzers.Lib.pdb
+C:\Users\John N\Desktop\C#plat\CSarpExercises\WordCounter\obj\Debug\netcoreapp2.1\WordCounter.csproj.CopyComplete

@@ -1,0 +1,11 @@
+C:\Users\John N\Desktop\C#plat\CSarpExercises\BoomsOrBlooms\bin\Debug\netcoreapp2.1\BoomsOrBlooms.deps.json
+C:\Users\John N\Desktop\C#plat\CSarpExercises\BoomsOrBlooms\bin\Debug\netcoreapp2.1\BoomsOrBlooms.runtimeconfig.json
+C:\Users\John N\Desktop\C#plat\CSarpExercises\BoomsOrBlooms\bin\Debug\netcoreapp2.1\BoomsOrBlooms.runtimeconfig.dev.json
+C:\Users\John N\Desktop\C#plat\CSarpExercises\BoomsOrBlooms\bin\Debug\netcoreapp2.1\BoomsOrBlooms.dll
+C:\Users\John N\Desktop\C#plat\CSarpExercises\BoomsOrBlooms\bin\Debug\netcoreapp2.1\BoomsOrBlooms.pdb
+C:\Users\John N\Desktop\C#plat\CSarpExercises\BoomsOrBlooms\obj\Debug\netcoreapp2.1\BoomsOrBlooms.csprojAssemblyReference.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\BoomsOrBlooms\obj\Debug\netcoreapp2.1\BoomsOrBlooms.csproj.CoreCompileInputs.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\BoomsOrBlooms\obj\Debug\netcoreapp2.1\BoomsOrBlooms.AssemblyInfoInputs.cache
+C:\Users\John N\Desktop\C#plat\CSarpExercises\BoomsOrBlooms\obj\Debug\netcoreapp2.1\BoomsOrBlooms.AssemblyInfo.cs
+C:\Users\John N\Desktop\C#plat\CSarpExercises\BoomsOrBlooms\obj\Debug\netcoreapp2.1\BoomsOrBlooms.dll
+C:\Users\John N\Desktop\C#plat\CSarpExercises\BoomsOrBlooms\obj\Debug\netcoreapp2.1\BoomsOrBlooms.pdb

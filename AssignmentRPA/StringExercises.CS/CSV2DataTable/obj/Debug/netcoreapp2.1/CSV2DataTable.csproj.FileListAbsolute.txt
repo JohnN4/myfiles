@@ -1,0 +1,12 @@
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\CSV2DataTable\bin\Debug\netcoreapp2.1\Customers.txt
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\CSV2DataTable\bin\Debug\netcoreapp2.1\CSV2DataTable.deps.json
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\CSV2DataTable\bin\Debug\netcoreapp2.1\CSV2DataTable.runtimeconfig.json
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\CSV2DataTable\bin\Debug\netcoreapp2.1\CSV2DataTable.runtimeconfig.dev.json
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\CSV2DataTable\bin\Debug\netcoreapp2.1\CSV2DataTable.dll
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\CSV2DataTable\bin\Debug\netcoreapp2.1\CSV2DataTable.pdb
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\CSV2DataTable\obj\Debug\netcoreapp2.1\CSV2DataTable.csprojAssemblyReference.cache
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\CSV2DataTable\obj\Debug\netcoreapp2.1\CSV2DataTable.csproj.CoreCompileInputs.cache
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\CSV2DataTable\obj\Debug\netcoreapp2.1\CSV2DataTable.AssemblyInfoInputs.cache
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\CSV2DataTable\obj\Debug\netcoreapp2.1\CSV2DataTable.AssemblyInfo.cs
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\CSV2DataTable\obj\Debug\netcoreapp2.1\CSV2DataTable.dll
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\CSV2DataTable\obj\Debug\netcoreapp2.1\CSV2DataTable.pdb

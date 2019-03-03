@@ -1,0 +1,7 @@
+C:\Users\lion4\OneDrive\Desktop\C#plat\CSarpExercises\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\lion4\OneDrive\Desktop\C#plat\CSarpExercises\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\lion4\OneDrive\Desktop\C#plat\CSarpExercises\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\lion4\OneDrive\Desktop\C#plat\CSarpExercises\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\lion4\OneDrive\Desktop\C#plat\CSarpExercises\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\lion4\OneDrive\Desktop\C#plat\CSarpExercises\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\lion4\OneDrive\Desktop\C#plat\CSarpExercises\HelloWorld\obj\Debug\HelloWorld.pdb

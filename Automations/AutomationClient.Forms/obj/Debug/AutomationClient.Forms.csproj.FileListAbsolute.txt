@@ -1,0 +1,13 @@
+C:\Users\John N\Desktop\C#plat\Automations\AutomationClient.Forms\bin\Debug\AutomationClient.Forms.exe.config
+C:\Users\John N\Desktop\C#plat\Automations\AutomationClient.Forms\bin\Debug\AutomationClient.Forms.exe
+C:\Users\John N\Desktop\C#plat\Automations\AutomationClient.Forms\bin\Debug\AutomationClient.Forms.pdb
+C:\Users\John N\Desktop\C#plat\Automations\AutomationClient.Forms\bin\Debug\Automation.Common.dll
+C:\Users\John N\Desktop\C#plat\Automations\AutomationClient.Forms\bin\Debug\Automation.Common.pdb
+C:\Users\John N\Desktop\C#plat\Automations\AutomationClient.Forms\obj\Debug\AutomationClient.Forms.csprojAssemblyReference.cache
+C:\Users\John N\Desktop\C#plat\Automations\AutomationClient.Forms\obj\Debug\AutomationClient.Forms.Form1.resources
+C:\Users\John N\Desktop\C#plat\Automations\AutomationClient.Forms\obj\Debug\AutomationClient.Forms.Properties.Resources.resources
+C:\Users\John N\Desktop\C#plat\Automations\AutomationClient.Forms\obj\Debug\AutomationClient.Forms.csproj.GenerateResource.cache
+C:\Users\John N\Desktop\C#plat\Automations\AutomationClient.Forms\obj\Debug\AutomationClient.Forms.csproj.CoreCompileInputs.cache
+C:\Users\John N\Desktop\C#plat\Automations\AutomationClient.Forms\obj\Debug\AutomationClient.Forms.csproj.CopyComplete
+C:\Users\John N\Desktop\C#plat\Automations\AutomationClient.Forms\obj\Debug\AutomationClient.Forms.exe
+C:\Users\John N\Desktop\C#plat\Automations\AutomationClient.Forms\obj\Debug\AutomationClient.Forms.pdb

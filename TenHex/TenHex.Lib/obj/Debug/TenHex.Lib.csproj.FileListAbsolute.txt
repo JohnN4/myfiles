@@ -1,0 +1,6 @@
+C:\Users\lion4\OneDrive\Desktop\C#plat\TenHex\TenHex.Lib\bin\Debug\TenHex.Lib.dll
+C:\Users\lion4\OneDrive\Desktop\C#plat\TenHex\TenHex.Lib\bin\Debug\TenHex.Lib.pdb
+C:\Users\lion4\OneDrive\Desktop\C#plat\TenHex\TenHex.Lib\obj\Debug\TenHex.Lib.csprojAssemblyReference.cache
+C:\Users\lion4\OneDrive\Desktop\C#plat\TenHex\TenHex.Lib\obj\Debug\TenHex.Lib.csproj.CoreCompileInputs.cache
+C:\Users\lion4\OneDrive\Desktop\C#plat\TenHex\TenHex.Lib\obj\Debug\TenHex.Lib.dll
+C:\Users\lion4\OneDrive\Desktop\C#plat\TenHex\TenHex.Lib\obj\Debug\TenHex.Lib.pdb

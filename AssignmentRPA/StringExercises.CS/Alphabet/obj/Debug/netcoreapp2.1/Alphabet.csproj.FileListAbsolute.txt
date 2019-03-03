@@ -1,0 +1,11 @@
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\Alphabet\bin\Debug\netcoreapp2.1\Alphabet.deps.json
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\Alphabet\bin\Debug\netcoreapp2.1\Alphabet.runtimeconfig.json
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\Alphabet\bin\Debug\netcoreapp2.1\Alphabet.runtimeconfig.dev.json
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\Alphabet\bin\Debug\netcoreapp2.1\Alphabet.dll
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\Alphabet\bin\Debug\netcoreapp2.1\Alphabet.pdb
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\Alphabet\obj\Debug\netcoreapp2.1\Alphabet.csprojAssemblyReference.cache
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\Alphabet\obj\Debug\netcoreapp2.1\Alphabet.csproj.CoreCompileInputs.cache
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\Alphabet\obj\Debug\netcoreapp2.1\Alphabet.AssemblyInfoInputs.cache
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\Alphabet\obj\Debug\netcoreapp2.1\Alphabet.AssemblyInfo.cs
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\Alphabet\obj\Debug\netcoreapp2.1\Alphabet.dll
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\Alphabet\obj\Debug\netcoreapp2.1\Alphabet.pdb

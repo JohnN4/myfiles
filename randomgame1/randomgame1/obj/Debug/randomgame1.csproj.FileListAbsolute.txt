@@ -1,0 +1,7 @@
+C:\Users\John N\Desktop\C#plat\randomgame1\randomgame1\bin\Debug\randomgame1.exe.config
+C:\Users\John N\Desktop\C#plat\randomgame1\randomgame1\bin\Debug\randomgame1.exe
+C:\Users\John N\Desktop\C#plat\randomgame1\randomgame1\bin\Debug\randomgame1.pdb
+C:\Users\John N\Desktop\C#plat\randomgame1\randomgame1\obj\Debug\randomgame1.csprojAssemblyReference.cache
+C:\Users\John N\Desktop\C#plat\randomgame1\randomgame1\obj\Debug\randomgame1.csproj.CoreCompileInputs.cache
+C:\Users\John N\Desktop\C#plat\randomgame1\randomgame1\obj\Debug\randomgame1.exe
+C:\Users\John N\Desktop\C#plat\randomgame1\randomgame1\obj\Debug\randomgame1.pdb

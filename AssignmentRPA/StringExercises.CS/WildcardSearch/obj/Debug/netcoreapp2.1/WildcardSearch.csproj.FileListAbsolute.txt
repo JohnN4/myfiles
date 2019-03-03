@@ -1,0 +1,12 @@
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\WildcardSearch\bin\Debug\netcoreapp2.1\mobydick.txt
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\WildcardSearch\bin\Debug\netcoreapp2.1\WildcardSearch.deps.json
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\WildcardSearch\bin\Debug\netcoreapp2.1\WildcardSearch.runtimeconfig.json
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\WildcardSearch\bin\Debug\netcoreapp2.1\WildcardSearch.runtimeconfig.dev.json
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\WildcardSearch\bin\Debug\netcoreapp2.1\WildcardSearch.dll
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\WildcardSearch\bin\Debug\netcoreapp2.1\WildcardSearch.pdb
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\WildcardSearch\obj\Debug\netcoreapp2.1\WildcardSearch.csprojAssemblyReference.cache
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\WildcardSearch\obj\Debug\netcoreapp2.1\WildcardSearch.csproj.CoreCompileInputs.cache
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\WildcardSearch\obj\Debug\netcoreapp2.1\WildcardSearch.AssemblyInfoInputs.cache
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\WildcardSearch\obj\Debug\netcoreapp2.1\WildcardSearch.AssemblyInfo.cs
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\WildcardSearch\obj\Debug\netcoreapp2.1\WildcardSearch.dll
+C:\Users\John N\Desktop\C#plat\AssignmentRPA\StringExercises.CS\WildcardSearch\obj\Debug\netcoreapp2.1\WildcardSearch.pdb
