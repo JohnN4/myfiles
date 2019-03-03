@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SqlJoin.VB", "SqlJoin.VB\SqlJoin.VB.vbproj", "{09D20AF4-6772-4550-980B-B98E6C7F3C63}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SqlJoin.CS", "SqlJoin.CS\SqlJoin.CS.csproj", "{91660A15-B411-40CB-A10D-48ECCD66E5C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09D20AF4-6772-4550-980B-B98E6C7F3C63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09D20AF4-6772-4550-980B-B98E6C7F3C63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09D20AF4-6772-4550-980B-B98E6C7F3C63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09D20AF4-6772-4550-980B-B98E6C7F3C63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91660A15-B411-40CB-A10D-48ECCD66E5C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91660A15-B411-40CB-A10D-48ECCD66E5C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91660A15-B411-40CB-A10D-48ECCD66E5C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91660A15-B411-40CB-A10D-48ECCD66E5C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25936664-EAFD-43E4-8EA9-4468D7C8C182}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\obj\Debug\CSV2DataGrid.csprojAssemblyReference.cache
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\obj\Debug\MainWindow.g.cs
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\obj\Debug\App.g.cs
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\obj\Debug\CSV2DataGrid_Content.g.cs
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\obj\Debug\CSV2DataGrid_MarkupCompile.cache
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\obj\Debug\CSV2DataGrid_MarkupCompile.lref
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\bin\Debug\Customers.txt
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\bin\Debug\CSV2DataGrid.exe.config
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\bin\Debug\CSV2DataGrid.exe
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\bin\Debug\CSV2DataGrid.pdb
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\obj\Debug\MainWindow.baml
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\obj\Debug\CSV2DataGrid.g.resources
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\obj\Debug\CSV2DataGrid.Properties.Resources.resources
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\obj\Debug\CSV2DataGrid.csproj.GenerateResource.cache
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\obj\Debug\CSV2DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\obj\Debug\CSV2DataGrid.exe
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\CSV2DataGrid\obj\Debug\CSV2DataGrid.pdb

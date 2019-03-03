@@ -1,0 +1,15 @@
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\RemoteTypist\bin\Debug\RemoteTypist.exe.config
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\RemoteTypist\bin\Debug\RemoteTypist.exe
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\RemoteTypist\bin\Debug\RemoteTypist.pdb
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\RemoteTypist\obj\Debug\RemoteTypist.csprojAssemblyReference.cache
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\RemoteTypist\obj\Debug\MainWindow.g.cs
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\RemoteTypist\obj\Debug\App.g.cs
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\RemoteTypist\obj\Debug\RemoteTypist_MarkupCompile.cache
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\RemoteTypist\obj\Debug\RemoteTypist_MarkupCompile.lref
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\RemoteTypist\obj\Debug\MainWindow.baml
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\RemoteTypist\obj\Debug\RemoteTypist.g.resources
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\RemoteTypist\obj\Debug\RemoteTypist.Properties.Resources.resources
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\RemoteTypist\obj\Debug\RemoteTypist.csproj.GenerateResource.cache
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\RemoteTypist\obj\Debug\RemoteTypist.csproj.CoreCompileInputs.cache
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\RemoteTypist\obj\Debug\RemoteTypist.exe
+C:\Users\John N\Desktop\C#plat\ProcessesAndWindows.CS\RemoteTypist\obj\Debug\RemoteTypist.pdb
